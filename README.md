@@ -21,12 +21,12 @@
 </p>
 
 <p>
-  <a href="#rocket-extensions">Extensions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#extensions">Extensions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
-## :rocket: Extensions
+## Extensions
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
@@ -45,7 +45,7 @@
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 
-## :information_source: How To Use
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [vsce](https://www.npmjs.com/package/vsce) or higher installed on your computer. From your command line:
 
@@ -59,10 +59,10 @@ $ cd bumblebee-extension-pack
 $ vsce package
 ```
 
-## :memo: License
+## License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/bumblebee-extension-pack/blob/master/LICENSE) for more information.
 
 ---
 
-:wave: [Get in touch!](https://www.linkedin.com/in/melquisedecfelipe/)
+[Get in touch!](https://www.linkedin.com/in/melquisedecfelipe/)
