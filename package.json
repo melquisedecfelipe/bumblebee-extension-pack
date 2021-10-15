@@ -2,7 +2,7 @@
   "name": "bumblebee-extension-pack",
   "displayName": "Bumblebee Extension Pack",
   "description": "Extensions used on AmbevTech Bumblebee team",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "bumblebee-extension-pack",
   "engines": {
     "vscode": "^1.61.0"
