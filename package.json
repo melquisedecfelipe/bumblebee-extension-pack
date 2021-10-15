@@ -3,7 +3,7 @@
   "displayName": "Bumblebee Extension Pack",
   "description": "Extensions used on AmbevTech Bumblebee team",
   "version": "1.0.0",
-  "publisher": "melquisedecfelipe",
+  "publisher": "bumblebee-extension-pack",
   "engines": {
     "vscode": "^1.61.0"
   },
