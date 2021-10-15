@@ -1,0 +1,53 @@
+{
+  "name": "bumblebee-extension-pack",
+  "displayName": "Bumblebee Extension Pack",
+  "description": "Extensions used on AmbevTech Bumblebee team",
+  "version": "1.0.0",
+  "publisher": "melquisedecfelipe",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "eslint",
+    "git",
+    "prettier",
+    "react",
+    "snippets",
+    "styled-components",
+    "theme",
+    "typescript"
+  ],
+  "repository": {
+    "url": "https://github.com/melquisedecfelipe/bumblebee-extension-pack"
+  },
+  "homepage": "https://github.com/melquisedecfelipe/bumblebee-extension-pack",
+  "bugs": {
+    "url": "https://github.com/melquisedecfelipe/bumblebee-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "xabikos.javascriptsnippets",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "PKief.material-icon-theme",
+    "origamid.origamid-next",
+    "naumovs.color-highlight",
+    "mrmlnc.vscode-duplicate",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "waderyan.gitblame",
+    "ms-vsliveshare.vsliveshare",
+    "esbenp.prettier-vscode",
+    "sonarsource.sonarlint-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "jpoissonnier.vscode-styled-components"
+  ]
+}
