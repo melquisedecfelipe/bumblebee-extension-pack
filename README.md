@@ -47,7 +47,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [vsce](https://www.npmjs.com/package/vsce) or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [vsce](https://www.npmjs.com/package/vsce) installed on your computer. From your command line:
 
 ```bash
 $ git clone https://github.com/melquisedecfelipe/bumblebee-extension-pack
